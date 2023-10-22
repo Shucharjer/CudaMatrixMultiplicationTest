@@ -1,1 +1,2 @@
-# CudaRuntime1
+# CudaMatrixMultiplicationTest
+第一个cuda项目，以矩阵乘法为例，初步了解cuda编程
