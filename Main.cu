@@ -21,6 +21,7 @@ int main()
     float* src2 = new float[arraySize * arraySize];
     float* dst = new float[arraySize * arraySize];
 
+
     GetRandomMatrix((float*)src1, arraySize, arraySize);
     GetRandomMatrix((float*)src2, arraySize, arraySize);
     printf_s("start!\n");
